@@ -1,8 +1,19 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta http-equiv="refresh" content="0;url=/" />
+    <meta charset="UTF-8">
+    <title>Redirecting...</title>
+    <script type="text/javascript">
+      // Redirect the user to the correct page in React Router
+      var pathname = window.location.pathname;
+      var base = '/Prueba';
+      if (!pathname.startsWith(base)) {
+        pathname = base + pathname;
+      }
+      window.location.replace(base + "/index.html" + "#" + pathname.substring(base.length));
+    </script>
   </head>
   <body>
+    <h1>Redirecting...</h1>
   </body>
 </html>
