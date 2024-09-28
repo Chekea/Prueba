@@ -1,20 +1,19 @@
 {
   "files": {
     "main.css": "/Prueba/static/css/main.d11d5622.css",
-    "main.js": "/Prueba/static/js/main.01343458.js",
-    "static/js/988.2e74abb8.chunk.js": "/Prueba/static/js/988.2e74abb8.chunk.js",
-    "static/js/655.ce3d7701.chunk.js": "/Prueba/static/js/655.ce3d7701.chunk.js",
-    "static/js/539.46ce88ae.chunk.js": "/Prueba/static/js/539.46ce88ae.chunk.js",
-    "static/js/291.3b0e168f.chunk.js": "/Prueba/static/js/291.3b0e168f.chunk.js",
-    "static/js/683.81ebe259.chunk.js": "/Prueba/static/js/683.81ebe259.chunk.js",
-    "static/js/412.e3eded6d.chunk.js": "/Prueba/static/js/412.e3eded6d.chunk.js",
+    "main.js": "/Prueba/static/js/main.59376b6b.js",
+    "static/js/988.fd638143.chunk.js": "/Prueba/static/js/988.fd638143.chunk.js",
+    "static/js/655.ecc01cda.chunk.js": "/Prueba/static/js/655.ecc01cda.chunk.js",
+    "static/js/539.40b0a79b.chunk.js": "/Prueba/static/js/539.40b0a79b.chunk.js",
+    "static/js/291.636b5294.chunk.js": "/Prueba/static/js/291.636b5294.chunk.js",
+    "static/js/683.92f4d9b0.chunk.js": "/Prueba/static/js/683.92f4d9b0.chunk.js",
+    "static/js/412.e62cff5f.chunk.js": "/Prueba/static/js/412.e62cff5f.chunk.js",
     "static/js/671.26fcde82.chunk.js": "/Prueba/static/js/671.26fcde82.chunk.js",
     "static/js/720.0e03b2fe.chunk.js": "/Prueba/static/js/720.0e03b2fe.chunk.js",
     "static/js/48.d2098191.chunk.js": "/Prueba/static/js/48.d2098191.chunk.js",
     "static/js/206.53c48c4b.chunk.js": "/Prueba/static/js/206.53c48c4b.chunk.js",
-    "static/js/848.41bd904d.chunk.js": "/Prueba/static/js/848.41bd904d.chunk.js",
     "static/js/277.aeb6a8c2.chunk.js": "/Prueba/static/js/277.aeb6a8c2.chunk.js",
-    "static/js/751.ef1f914c.chunk.js": "/Prueba/static/js/751.ef1f914c.chunk.js",
+    "static/js/819.8a2753d2.chunk.js": "/Prueba/static/js/819.8a2753d2.chunk.js",
     "static/js/994.0c0fa67d.chunk.js": "/Prueba/static/js/994.0c0fa67d.chunk.js",
     "static/js/562.d1d19a73.chunk.js": "/Prueba/static/js/562.d1d19a73.chunk.js",
     "static/media/Linotte-Regular.ttf": "/Prueba/static/media/Linotte-Regular.e6583154eeda6d7b0b48.ttf",
@@ -23,6 +22,6 @@
   },
   "entrypoints": [
     "static/css/main.d11d5622.css",
-    "static/js/main.01343458.js"
+    "static/js/main.59376b6b.js"
   ]
 }
