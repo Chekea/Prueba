@@ -1,26 +1,28 @@
 {
   "files": {
     "main.css": "/Prueba/static/css/main.d11d5622.css",
-    "main.js": "/Prueba/static/js/main.ac178d2e.js",
-    "static/js/988.0b296d41.chunk.js": "/Prueba/static/js/988.0b296d41.chunk.js",
-    "static/js/655.b60e1f1a.chunk.js": "/Prueba/static/js/655.b60e1f1a.chunk.js",
-    "static/js/499.e222d8ec.chunk.js": "/Prueba/static/js/499.e222d8ec.chunk.js",
-    "static/js/291.ec3c80ad.chunk.js": "/Prueba/static/js/291.ec3c80ad.chunk.js",
-    "static/js/683.755e10d1.chunk.js": "/Prueba/static/js/683.755e10d1.chunk.js",
+    "main.js": "/Prueba/static/js/main.f7562153.js",
+    "static/js/988.780a7ecf.chunk.js": "/Prueba/static/js/988.780a7ecf.chunk.js",
+    "static/js/655.a2c92337.chunk.js": "/Prueba/static/js/655.a2c92337.chunk.js",
+    "static/js/499.321b5aec.chunk.js": "/Prueba/static/js/499.321b5aec.chunk.js",
+    "static/js/291.8629c17e.chunk.js": "/Prueba/static/js/291.8629c17e.chunk.js",
+    "static/js/683.65086215.chunk.js": "/Prueba/static/js/683.65086215.chunk.js",
     "static/js/412.e62cff5f.chunk.js": "/Prueba/static/js/412.e62cff5f.chunk.js",
     "static/js/671.26fcde82.chunk.js": "/Prueba/static/js/671.26fcde82.chunk.js",
     "static/js/720.0e03b2fe.chunk.js": "/Prueba/static/js/720.0e03b2fe.chunk.js",
     "static/js/48.d2098191.chunk.js": "/Prueba/static/js/48.d2098191.chunk.js",
     "static/js/206.53c48c4b.chunk.js": "/Prueba/static/js/206.53c48c4b.chunk.js",
     "static/js/277.aeb6a8c2.chunk.js": "/Prueba/static/js/277.aeb6a8c2.chunk.js",
+    "static/js/338.ec54894a.chunk.js": "/Prueba/static/js/338.ec54894a.chunk.js",
     "static/js/994.0c0fa67d.chunk.js": "/Prueba/static/js/994.0c0fa67d.chunk.js",
     "static/js/734.1fda714b.chunk.js": "/Prueba/static/js/734.1fda714b.chunk.js",
+    "static/js/923.1b14e564.chunk.js": "/Prueba/static/js/923.1b14e564.chunk.js",
     "static/media/Linotte-Regular.ttf": "/Prueba/static/media/Linotte-Regular.e6583154eeda6d7b0b48.ttf",
     "static/media/Linotte-SemiBold.ttf": "/Prueba/static/media/Linotte-SemiBold.63463789e30b16c728de.ttf",
     "index.html": "/Prueba/index.html"
   },
   "entrypoints": [
     "static/css/main.d11d5622.css",
-    "static/js/main.ac178d2e.js"
+    "static/js/main.f7562153.js"
   ]
 }
